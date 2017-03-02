@@ -1,0 +1,14 @@
+# playground.info.yml
+name: playground
+type: theme
+description: 'D8 Theme for a basic'
+core: 8.x
+base theme: classy
+libraries:
+ - playground/global-styling
+ - playground/leaflet
+regions:
+  navbar: 'Top Navigation Bar'
+  content: Content
+  sidebar: 'Sidebar'
+  footer: 'Footer'
