@@ -3,3 +3,8 @@ sites/default/settings.php
 .DS_Store
 .htaccess
 web.config
+README.txt
+backup
+temp
+sites/*/files
+sites/*/private
