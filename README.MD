@@ -1,6 +1,6 @@
 # Playground Theme
 
-Drupal8 custom theme
+Drupal8 custom theme in progress
 
 ## Getting Started
 
