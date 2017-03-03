@@ -1,0 +1,14 @@
+name: playground
+description: Drupal 8 starter playful theme
+type: theme
+core: 8.x
+libraries:
+  - playground/global-css
+  - playground/global-js
+
+regions:
+  primary_menu: 'Primary menu'
+  content: 'main content'
+  header: 'Header'
+  footer: 'footer'
+  sidebar: 'Sidebar'

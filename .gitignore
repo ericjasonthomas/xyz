@@ -6,5 +6,7 @@ web.config
 README.txt
 backup
 temp
-sites/*/files
 sites/*/private
+sites/default/files/*
+node_modules/*
+sites/default/settings.local.php
